@@ -1,0 +1,1 @@
+This folder contains the quick notes and drafts.
