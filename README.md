@@ -4,12 +4,24 @@ As working at the big tech companies like MAANG becomes extremely popular today,
 
 This repo and relevant tutorials are not designed to be a boring textbook. Instead, it more focuses on the hands-on skills/knowledge which is helpful in interview and real work(hopefully). I'm really hoping it can help somebody even a little bit. I'll keep updating the skills/knowledge as well as the thoughts of the industry. Any suggestions and feedbacks are strongly welcome.
 
-The following is the major catalog for your convenience. The whole repo is organized and made by Obsidian which is one of my favorite tools.
+The following is the major catalog. The whole repo is organized and made using Obsidian which is one of my favorite tools.
 
 
 [Algorithm](Techbook/Algorithm/README.md)
-[Coding](Techbook/Coding/README.md)
 [Data Structure](Techbook/DataStructure/README.md)
+[System Design](Techbook/SystemDesign/README.md)
+[Web Development](Techbook/WebDevelopment/README.md)
+[Cybersecurity](Techbook/Cybersecurity/README.md)
+[Linux](Techbook/Linux/README.md)
+[Network](Techbook/Network/README.md)
+[SRE](Techbook/SRE/README.md)
+[Testing](Techbook/Testing/README.md)
+[Tools](Techbook/Tools/README.md)
+[Software Engineering](Techbook/SoftwareEngineering/README.md)
+[Machine Learning](Techbook/MachineLearning/README.md)
+[Hardware](Techbook/Hardware/README.md)
+
+
 
 
 

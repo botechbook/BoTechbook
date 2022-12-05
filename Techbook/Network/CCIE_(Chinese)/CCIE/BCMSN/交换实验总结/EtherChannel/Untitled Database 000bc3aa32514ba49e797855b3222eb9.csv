@@ -1,0 +1,6 @@
+﻿模式,协议,描述
+ON,无,手工静态强制接口工作在EtherChanne下。
+Auto,PAGP,只接收PAgP协商消息，并做出回应同意工作在EtherChanne下，并不主动发出PAgP协商。
+Desirable,PAGP,主动发送PAGP协商消息，主动要求对方工作在EtherChanne下。
+Passive,LACP,只接收LACP协商消息，并做出回应同意工作在EtherChanne下，并不主动发出LACP协商。
+Active,LACP,主动发送LACP协商消息，主动要求对方工作在EtherChanne下。
