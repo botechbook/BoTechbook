@@ -1,0 +1,5 @@
+﻿Title,1,"Select the host, click Manage, and keep Settings selected."
+,2,Click Security Profile.
+,3,"In the Services section, click Edit."
+,4,"Select SSH.■To temporarily start or stop the service, click the Start or Stop button.■To change the Startup policy across reboots, select Start and stop with host and reboot the host."
+,5,Click OK.
